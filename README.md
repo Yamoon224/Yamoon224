@@ -35,7 +35,7 @@ Beyond development, I apply DevOps best practices, CI/CD pipelines, and cloud-re
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Yamoon224&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yamoon224&show_icons=true&hide_border=true&theme=default)
 
 ---
 
