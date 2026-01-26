@@ -18,24 +18,26 @@ Beyond development, I apply DevOps best practices, CI/CD pipelines, and cloud-re
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg?color=007396" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg?color=239120" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/django.svg?color=092E20" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/laravel.svg?color=FF2D20" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/php.svg?color=777BB4" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg?color=339933" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg?color=000000" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg?color=06B6D4" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flutter.svg?color=02569B" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg?color=2496ED" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg?color=4479A1" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg?color=4169E1" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/django.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/laravel.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/php.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flutter.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg?color=FFF" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg?color=FFF" width="30" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yamoon224&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yamoon224&show_icons=true&count_private=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamoon224&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yamoon224&theme=default)
 
 ---
 
