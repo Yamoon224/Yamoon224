@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yamoussa KEITA
 
 💻 Software Engineer | MBA Digital Marketing & IS  
-🚀 Java • C# • Django • Laravel • Flutter • Next.js • Docker  
+🚀 SpringBoot • .NET • Django • Laravel • Flutter • NextJS • Nest • Docker • Kubernetes 
 🌍 Abidjan, Côte d’Ivoire
 
 ---
