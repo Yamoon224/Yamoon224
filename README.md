@@ -1,24 +1,59 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=860&lines=👋+Salut%2C+je+suis+Yamoussa+KEITA;🚀+Développeur+Full+Stack;🤖+Orchestrateur+%26+Pilote+IA;💡+MBA+Digital+Marketing+%26+IS" alt="Typing SVG" />
+<a href="#fr">🇫🇷 Français</a> &nbsp;·&nbsp; <a href="#en">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#de">🇩🇪 Deutsch</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Yamoussa+KEITA;Full+Stack+Developer;AI+Orchestrator+%26+Pilot;MBA+%7C+Digital+Marketing+%26+IS" alt="Yamoussa KEITA" />
 
 <br/>
 
-![](https://img.shields.io/badge/🌍_Abidjan-Côte_dIvoire-00D9FF?style=flat-square)
-![](https://img.shields.io/badge/💼_Software-Engineer-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/🤖_AI-Orchestrator-EA4335?style=flat-square)
+![](https://img.shields.io/badge/Abidjan-C%C3%B4te_d%27Ivoire-00D9FF?style=flat-square)
+![](https://img.shields.io/badge/Software-Engineer-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/AI-Orchestrator-EA4335?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 À Propos de Moi
+<a id="fr"></a>
+<details open>
+<summary><strong>🇫🇷 À Propos de Moi</strong></summary>
+<br/>
 
 Je conçois et développe des applications web et mobiles **scalables, sécurisées et haute performance**, adaptées aux besoins métiers réels.
 
 Je **pilote et orchestre des architectures IA** — LLM, RAG, agents autonomes, pipelines multi-modaux — intégrés directement dans les systèmes d'entreprise.
 
 Je mène des projets **ERP, fintech, paiement digital, e-commerce et SaaS** avec une culture DevOps et cloud-native, du design à la production.
+
+</details>
+
+<a id="en"></a>
+<details>
+<summary><strong>🇬🇧 About Me</strong></summary>
+<br/>
+
+I design and build **scalable, secure, and high-performance** web and mobile applications tailored to real-world business needs.
+
+I **pilot and orchestrate AI architectures** — LLMs, RAG pipelines, autonomous agents, multi-modal systems — integrated directly into enterprise platforms.
+
+I lead **ERP, fintech, digital payment, e-commerce, and SaaS** projects with a DevOps and cloud-native culture, from design to production.
+
+</details>
+
+<a id="de"></a>
+<details>
+<summary><strong>🇩🇪 Über Mich</strong></summary>
+<br/>
+
+Ich entwerfe und entwickle **skalierbare, sichere und hochleistungsfähige** Web- und Mobilanwendungen für reale Geschäftsanforderungen.
+
+Ich **orchestriere und steuere KI-Architekturen** — LLMs, RAG-Pipelines, autonome Agenten, multimodale Systeme — direkt in Unternehmensplattformen integriert.
+
+Ich leite **ERP-, Fintech-, Digitalzahlungs-, E-Commerce- und SaaS**-Projekte mit einer DevOps- und Cloud-nativen Kultur, von der Planung bis zur Produktion.
+
+</details>
 
 ---
 
@@ -71,7 +106,7 @@ Je mène des projets **ERP, fintech, paiement digital, e-commerce et SaaS** avec
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Yamoon224&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yamoon224&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Reviews" />
 
   <br/><br/>
 
@@ -81,32 +116,32 @@ Je mène des projets **ERP, fintech, paiement digital, e-commerce et SaaS** avec
 
 ---
 
-## 📫 Me Contacter
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:Yamooon664@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" title="Gmail" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yamoussa224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/Yamoon224" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" title="Facebook" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/yamoon224" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" title="Instagram" />
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/Yamoussa224" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter / X" />
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/1371605290377547879" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=discord" width="40" title="Discord" />
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/yamussa224" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" title="Telegram" />
+  </a>&nbsp;&nbsp;
   <a href="https://yk.groupmafamo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" title="Portfolio" />
   </a>
 </p>
 
